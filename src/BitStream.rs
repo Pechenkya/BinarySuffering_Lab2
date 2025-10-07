@@ -222,6 +222,4 @@ impl BitStream {
 
         Ok(result)
     }
-
-
 }
